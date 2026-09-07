@@ -1,0 +1,10 @@
+root             40942   0.0  0.0 435300144   2016 s000  R+   10:06AM   0:00.01 ps aux
+root                 1   0.0  0.1 435249680  38784   ??  Ss   29Aug26  18:52.18 /sbin/launchd
+marusiavolodina  40939   0.0  0.0 435440480  13824   ??  S    10:06AM   0:00.05 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marusiavolodina  40925   0.0  0.0 435440688  20384   ??  S    10:05AM   0:00.06 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+marusiavolodina  40920   0.0  0.2 438441920 167280   ??  S    10:04AM   0:00.07 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -isForBrowser -prefsHandle 0:52391 -prefMapHandle 1:296877 -jsInitHandle 2:160936 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -parentBuildID 20260826195058 -ipcHandle 0 -initialChannelId {2e7a15b6-42da-44f6-90df-efa5dcd8aea1} -parentPid 38562 -crashHelperPid 38566 -crashHelperSend 3 -crashHelperRecv 0 -crashReporter gecko-crash-server-pipe.38562 -greomni /Applications/Firefox.app/Contents/Resources/omni.ja -appomni /Applications/Firefox.app/Contents/Resources/browser/omni.ja -appDir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/marusiavolodina/Library/Application Support/Firefox/Profiles/7xihjvyi.default-release org.mozilla.machname.990202469 43 tab
+marusiavolodina  40912   0.0  0.0 410745184   2816 s000  S    10:03AM   0:00.01 /Users/marusiavolodina/.cache/gitstatus/gitstatusd-darwin-arm64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 32
+marusiavolodina  40910   0.0  0.0 435306464   1824 s000  S    10:03AM   0:00.00 -zsh
+marusiavolodina  40909   0.0  0.0 435306480   2416 s000  S    10:03AM   0:00.00 -zsh
+marusiavolodina  40872   0.0  0.0 435306416   2352 s000  S    10:03AM   0:00.00 -zsh
+root             40865   0.0  0.0 435308480  10272 s000  Ss   10:03AM   0:00.02 login -pf marusiavolodina
